@@ -11,6 +11,6 @@ int main()
     cout<<"First number is greator";
     if(a<b)
     cout<<"Second number is greator";
-    if (a==b)
+    else
     cout<<"Both are equal";
 }
